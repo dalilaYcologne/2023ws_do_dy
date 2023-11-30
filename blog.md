@@ -1,10 +1,10 @@
-#Exponential organization
+# Exponential organization
 
 ![Scheme](chart2.jpg)
 
 https://frankdiana.net/2015/04/01/exponential-organizations/
 
-The core notion is simple: Rather than increasing human capital or physical assets, the most successful 21st-century companies leverage information and technology to achieve rapid expansion in pursuit of a "Massive Transformational Purpose" (MTP). In doing so, they're able to scale their business strategies, culture, organizational frameworks and purpose at the same rate as the technology, i.e. one that follows an exponential curve.
+## What?
 
 "An Exponential Organization is one whose impact or output is disproportionately large -- at least 10 times larger -- compared to its peers because of new organizational techniques that leverage accelerating technologies. In other words, it grows faster, bigger and cheaper than its competition because it has a Massive Transformative Purpose and scales as quickly as tech does."
 
